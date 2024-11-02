@@ -3,7 +3,6 @@
 </div>
 <img src="https://imgur.com/PEzLHrO"> 
 
-
 ![Linkedin](https://www.linkedin.com/in/yenifferochoav-desarrollo-fullstack/)
 
 ## About me
