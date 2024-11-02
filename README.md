@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://aristi.dev">Yeniffer FullStack Developer</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/PEzLHrO"> 
 
 
 ![Linkedin](https://www.linkedin.com/in/yenifferochoav-desarrollo-fullstack/)
