@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I am <a href="https://aristi.dev">Yeniffer FullStack Developer</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<!--
-**yeniffer8a/yeniffer8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Linkedin](https://www.linkedin.com/in/yenifferochoav-desarrollo-fullstack/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- ⭐ Software Developer - FullStack ⭐
+- 🔭 I’m currently working on BIT - Build Innovate Transform
+- 🌱 I’m currently learning BIT -Build Innovate Transform
+
+
